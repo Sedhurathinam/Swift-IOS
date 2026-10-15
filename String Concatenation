@@ -1,0 +1,6 @@
+var firstName = "Ravi"
+var lastName = "Kumar"
+
+var fullName = firstName + " " + lastName
+
+print(fullName)
