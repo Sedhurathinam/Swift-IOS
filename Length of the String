@@ -1,0 +1,8 @@
+var name = "Sedhu"
+print(name.count)
+
+var message = "Hello Swift"
+print(message.count)
+
+var language = "Programming"
+print(language.count)
